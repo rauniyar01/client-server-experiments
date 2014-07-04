@@ -1,0 +1,4 @@
+/*
+  Message class.
+  Used for exchanging messages between server and clients.
+*/
